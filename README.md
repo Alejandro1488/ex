@@ -74,3 +74,16 @@ https://github.com/sseezov/demo-2025-electron-template
 Создание БД скрипт в PostgreSQL с нормализацией третьей формы
 
 pgAdmin — самая популярная и многофункциональная платформа администрирования и разработки с открытым исходным кодом для PostgreSQL , самой передовой базы данных с открытым исходным кодом в мире. pgAdmin можно использовать в Linux, Unix, macOS и Windows для управления PostgreSQL и EDB Advanced Server 11 и выше.
+
+
+Кот взял со стола, скорее сизовский ил чт тип тг
+https://github.com/Alejandro1488/d2et
+
+Дем Сизов
+https://github.com/sseezov/demo-2025-electron-template
+
+https://github.com/Alejandro1488/ex
+
+https://github.com/Alejandro1488/spor
+
+https://www.cursor.com/
