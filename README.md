@@ -58,11 +58,11 @@
 
 https://chat.qwen.ai
 mr.d.2020@bk.ru
-plgf5000
+мой 4х код и 5к
 
 https://github.com
 Mr.d.2020@bk.ru
-Plgf5000
+мой 4х код с большой буквы и 5к
 Код
 
 реп сизова
