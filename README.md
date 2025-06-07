@@ -64,3 +64,6 @@ https://github.com
 Mr.d.2020@bk.ru
 Plgf5000
 Код
+
+реп сизова
+https://github.com/sseezov/demo-2025-electron-template
